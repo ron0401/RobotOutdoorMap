@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotOutdoorMapNET", "RobotOutdoorMapNET\RobotOutdoorMapNET.csproj", "{281C1C82-1FE1-4DE7-B901-CCDB95BF978E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "map", "map\map.csproj", "{3D8DD0A5-DEC6-443A-B572-052417344584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281C1C82-1FE1-4DE7-B901-CCDB95BF978E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281C1C82-1FE1-4DE7-B901-CCDB95BF978E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281C1C82-1FE1-4DE7-B901-CCDB95BF978E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281C1C82-1FE1-4DE7-B901-CCDB95BF978E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D8DD0A5-DEC6-443A-B572-052417344584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8DD0A5-DEC6-443A-B572-052417344584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8DD0A5-DEC6-443A-B572-052417344584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8DD0A5-DEC6-443A-B572-052417344584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63590811-D708-4D6F-9351-B9F882C88107}
+	EndGlobalSection
+EndGlobal
